@@ -9,4 +9,4 @@ Este repositorio contiene la documentación técnica del diseño de un sistema b
 - Diagrama de arquitectura del sistema
 
 ## Autor:
-[Tu Nombre o Nombre del Equipo]
+Alexander Samuel Bohorquez Blanco
